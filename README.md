@@ -1,2 +1,2 @@
-# antserve-builds
-AntServe app downloads
+# AntServe builds
+Release files for the AntServe app. The app checks this page for updates.
